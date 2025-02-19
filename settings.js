@@ -1,12 +1,3 @@
-//base by DGXeon
-//re-upload? recode? copy code? give credit ya :)
-//YouTube: @DGXeon
-//Instagram: unicorn_xeon13
-//Telegram: t.me/xeonbotinc
-//GitHub: @DGXeon
-//WhatsApp: +916909137213
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
-
 const fs = require('fs')
 const chalk = require('chalk')
 
@@ -14,24 +5,24 @@ const chalk = require('chalk')
 global.sessionid ='ur session id'
 
 //owmner v card
-global.ytname = "YT: King" //ur yt chanel name
-global.socialm = "GitHub: https://github.com/Samue-l1/ClassicV2" //
-global.location = "Kenya, Nairobi" //ur location
+global.ytname = "YT: EXPANUP" //ur yt chanel name
+global.socialm = "GitHub: https://github.com/EXPAN-UP/EXPANUP" //
+global.location = "INDIA, DELHI" //ur location
 
 //new
-global.botname = 'ClASSIC-V2' //ur bot name
-global.ownernumber = '254742491666' //ur owner number
-global.ownername = '『✙ 𝐾𝐼𝑁𝐺 𝑀𝑂𝐷𝑍✙』' //ur owner name
-global.websitex = "https://t.me/+hhQQxFUABd81MDM0"
+global.botname = 'EXPANUP-BOT' //ur bot name
+global.ownernumber = '919718294568' //ur owner number
+global.ownername = 'SHRUTI' //ur owner name
+global.websitex = "https://EXPLOREDREAM.IN"
 global.wagc = "https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk"
 global.themeemoji = '🪀'
-global.wm = "Classic Bot Inc."
-global.botscript = 'https://github.com/Samue-l1/ClassicV2' //script link
+global.wm = "EXPANUP Inc."
+global.botscript = 'https://github.com/EXPAN-UP/EXPANUP' //script link
 global.packname = "Sticker By"
-global.author = "『✙ 𝐾𝐼𝑁𝐺 𝑀𝑂𝐷𝑍✙』\n\n『✙ 𝐾𝐼𝑁𝐺 𝑀𝑂𝐷𝑍✙』"
-global.creator = "254703542294@s.whatsapp.net"
+global.author = "EXPANUP \n\n EXPANUP"
+global.creator = "919267936126@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["254703542294"] // Premium User
+global.premium = ["919267936126, 917065163779"] // Premium User
 global.hituet = 0
 
 //bot sett
@@ -40,10 +31,10 @@ global.typereply = 'v2' // reply type 'v1' => 'v3'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
 global.welcome = false //welcome/left in groups
-global.anticall = false //bot blocks user when called
+global.anticall = true //bot blocks user when called
 global.autoswview = false //auto status/story view
-global.adminevent = false //show promote/demote message
-global.groupevent = false //show update messages in group chat
+global.adminevent = true //show promote/demote message
+global.groupevent = true //show update messages in group chat
 //msg
 global.mess = {
 	limit: 'Your limit is up!',
